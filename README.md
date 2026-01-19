@@ -9,10 +9,8 @@ It is also important to generate your PI hex(You can do that at https://db.wtfda
 After that choose you NowPlaying.txt file or any file that has your Artist - Song title or any other text you want to display on your radio station.
 After you played around with program click start.
 Note: If you don't want to loose your configuration click save config button and now every time you load you will have the same configurations.
+
 #To do:
-
 1.Add a scrolling option
-
 2.Add option to choose titles from other apps/windows.
-
 3.Add Words Filter

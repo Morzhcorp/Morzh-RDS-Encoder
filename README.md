@@ -17,3 +17,6 @@ Note: If you don't want to loose your configuration click save config button and
 2.Add option to choose titles from other apps/windows.
 
 3.Add Words Filter
+
+
+# For questions contact morzhinfo@gmail.com
